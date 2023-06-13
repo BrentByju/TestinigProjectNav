@@ -24,3 +24,15 @@ body
 .navbar-header{
     width:1500px;
 }
+..movie_head
+{
+    font-size: 20px;
+    padding:6px 22px;
+}
+.movie_head 1
+    {
+        float: right;
+    }
+    .achievement_text span{
+        color:orange;
+    }
